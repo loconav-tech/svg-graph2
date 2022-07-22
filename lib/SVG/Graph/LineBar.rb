@@ -131,7 +131,7 @@ module SVG
             top = bottom - (((value < 0 ? 0 : value) - minvalue) * unit_size)
             left += bar_width * dataset_count if stack == :side
 
-            if dataset[:title] != "line" 
+            if dataset[:render_as] != "line" 
               @graph.add_element( "rect", {
                 "x" => left.to_s,
                 "y" => top.to_s,
@@ -161,7 +161,7 @@ module SVG
         }
         if @polyline_points.size != 0
           @graph.add_element("polyline", { "points" => @polyline_points.join(" "), "fill" => "none", "stroke" => "#00ff00", "id" => "time" })
-          @polyline_points.each { |p| @graph.add_element("circle", { "cx" => p.split(",")[0], "cy" => p.split(",")[1], "r" => 3 } ) }
+          @polyline_points.each { |p| @graph.add_element("circle", { "cx" => p.split(",")[0], "cy" => p.split(",")[1], "r" => 3, "stroke" => "#00ff00", "stroke-width" => 5, "fill" => "#00ff00" } ) }
           @polyline_points = []
         end
       end

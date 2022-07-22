@@ -1,6 +1,6 @@
 # require 'SVG/Graph/Bar'
 #
-require "byebug"
+# require "SVG/Graph/LineBar"
 
 x_axis = ['1-10', '10-30', '30-50', '50-70', 'older']
 
@@ -43,7 +43,8 @@ g.add_data( {
 
 g.add_data({
    :data => data3,
-   :title => "line"
+   :title => "Dataset3",
+   :render_as => "line"
 })
 # graph.burn            # this returns a full valid xml document containing the graph
 # graph.burn_svg_only   # this only returns the <svg>...</svg> node
