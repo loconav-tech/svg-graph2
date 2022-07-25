@@ -160,8 +160,8 @@ module SVG
           field_count += 1
         }
         if @polyline_points.size != 0
-          @graph.add_element("polyline", { "points" => @polyline_points.join(" "), "fill" => "none", "stroke" => "#00ff00", "id" => "time" })
-          @polyline_points.each { |p| @graph.add_element("circle", { "cx" => p.split(",")[0], "cy" => p.split(",")[1], "r" => 3, "stroke" => "#00ff00", "stroke-width" => 5, "fill" => "#00ff00" } ) }
+          @graph.add_element("polyline", { "points" => @polyline_points.join(" "), "fill" => "none", "stroke" => "#ffff00", "id" => "time" })
+          @polyline_points.each { |p| @graph.add_element("circle", { "cx" => p.split(",")[0], "cy" => p.split(",")[1], "r" => 3, "stroke" => "#ffff00", "stroke-width" => 5, "fill" => "#ffff00" } ) }
           @polyline_points = []
         end
       end

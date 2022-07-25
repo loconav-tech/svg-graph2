@@ -377,7 +377,7 @@ module SVG
 }
 .key3,.fill3{
 	fill-opacity: 0.7;
-	fill: #00ff00;
+	fill: #ffff00;
 	stroke: none;
 	stroke-width: 1px;
 }
@@ -407,7 +407,7 @@ module SVG
 }
 .key8,.fill8{
 	fill-opacity: 0.7;
-	fill: #ffff00;
+	fill: #00ff00;
 	stroke: none;
 	stroke-width: 1px;
 }
