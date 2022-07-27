@@ -45,147 +45,147 @@
 <rect x='321.46666666666664' y='299.0' width='29.146666666666665' height='115.0' class='fill2' style='fill: #0000ff; fill-opacity: 0.7; stroke: none; stroke-width: 1px;'/>
 <rect x='389.76' y='349.6' width='29.146666666666665' height='64.39999999999999' class='fill1' style='fill: #ff0000; fill-opacity: 0.7; stroke: none; stroke-width: 0.5px;'/>
 <rect x='418.90666666666664' y='121.90000000000003' width='29.146666666666665' height='292.09999999999997' class='fill2' style='fill: #0000ff; fill-opacity: 0.7; stroke: none; stroke-width: 1px;'/>
-<polyline points='29.146666666666665,322.0 126.58666666666666,299.0 224.02666666666664,276.0 321.4666666666667,368.0 418.9066666666667,345.0' fill='none' stroke='#ffff00' id='time'/>
+<polyline points='29.146666666666665,322.0 126.58666666666666,299.0 224.02666666666664,276.0 321.4666666666667,368.0 418.9066666666667,345.0' fill='none' stroke='#ffff00' id='time' writing-mode='horizontal-tb'/>
 <circle cx='29.146666666666665' cy='322.0' r='3' stroke='#ffff00' stroke-width='5' fill='#ffff00'/>
 <circle cx='126.58666666666666' cy='299.0' r='3' stroke='#ffff00' stroke-width='5' fill='#ffff00'/>
 <circle cx='224.02666666666664' cy='276.0' r='3' stroke='#ffff00' stroke-width='5' fill='#ffff00'/>
 <circle cx='321.4666666666667' cy='368.0' r='3' stroke='#ffff00' stroke-width='5' fill='#ffff00'/>
 <circle cx='418.9066666666667' cy='345.0' r='3' stroke='#ffff00' stroke-width='5' fill='#ffff00'/>
 <g>
-<text x='14.573333333333332' y='63.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;text-anchor: start;'>15.00</text>
-<text x='14.573333333333332' y='63.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: start;'>15.00</text>
-<g id='70226188204940' visibility='hidden'>
-<text x='19.57333333333333' y='57.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>15.00</text>
-<text x='19.57333333333333' y='57.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>15.00</text>
+<text x='14.573333333333332' y='63.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;text-anchor: start;'>15.00 (46%)</text>
+<text x='14.573333333333332' y='63.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: start;'>15.00 (46%)</text>
+<g id='70237786147880' visibility='hidden'>
+<text x='19.57333333333333' y='57.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>15.00 (46%)</text>
+<text x='19.57333333333333' y='57.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>15.00 (46%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='14.573333333333332' cy='69.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226188204940).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226188204940).style.visibility = &apos;hidden&apos;'/>
+<circle cx='14.573333333333332' cy='69.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237786147880).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237786147880).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='43.72' y='385.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>1.00</text>
-<text x='43.72' y='385.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>1.00</text>
-<g id='70226188318420' visibility='hidden'>
-<text x='48.72' y='379.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>1.00</text>
-<text x='48.72' y='379.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>1.00</text>
+<text x='43.72' y='385.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;text-anchor: start;'>1.00 (4%)</text>
+<text x='43.72' y='385.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: start;'>1.00 (4%)</text>
+<g id='70237786064600' visibility='hidden'>
+<text x='48.72' y='379.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>1.00 (4%)</text>
+<text x='48.72' y='379.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>1.00 (4%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='43.72' cy='391.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226188318420).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226188318420).style.visibility = &apos;hidden&apos;'/>
+<circle cx='43.72' cy='391.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237786064600).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237786064600).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='43.72' y='316.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>4.00</text>
-<text x='43.72' y='316.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>4.00</text>
-<g id='70226188252880' visibility='hidden'>
-<text x='48.72' y='310.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>4.00</text>
-<text x='48.72' y='310.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>4.00</text>
+<text x='43.72' y='316.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;text-anchor: start;'>4.00 (20%)</text>
+<text x='43.72' y='316.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: start;'>4.00 (20%)</text>
+<g id='70237785900680' visibility='hidden'>
+<text x='48.72' y='310.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>4.00 (20%)</text>
+<text x='48.72' y='310.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>4.00 (20%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='43.72' cy='322.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226188252880).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226188252880).style.visibility = &apos;hidden&apos;'/>
+<circle cx='43.72' cy='322.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237785900680).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237785900680).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='112.01333333333334' y='316.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>4.00</text>
-<text x='112.01333333333334' y='316.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>4.00</text>
-<g id='70226189820520' visibility='hidden'>
-<text x='117.01333333333334' y='310.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>4.00</text>
-<text x='117.01333333333334' y='310.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>4.00</text>
+<text x='112.01333333333334' y='316.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>4.00 (12%)</text>
+<text x='112.01333333333334' y='316.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>4.00 (12%)</text>
+<g id='70237785579900' visibility='hidden'>
+<text x='117.01333333333334' y='310.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>4.00 (12%)</text>
+<text x='117.01333333333334' y='310.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>4.00 (12%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='112.01333333333334' cy='322.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226189820520).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226189820520).style.visibility = &apos;hidden&apos;'/>
+<circle cx='112.01333333333334' cy='322.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237785579900).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237785579900).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='141.16' y='293.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>5.00</text>
-<text x='141.16' y='293.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>5.00</text>
-<g id='70226189760420' visibility='hidden'>
-<text x='146.16' y='287.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>5.00</text>
-<text x='146.16' y='287.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>5.00</text>
+<text x='141.16' y='293.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>5.00 (18%)</text>
+<text x='141.16' y='293.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>5.00 (18%)</text>
+<g id='70237785488740' visibility='hidden'>
+<text x='146.16' y='287.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>5.00 (18%)</text>
+<text x='146.16' y='287.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>5.00 (18%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='141.16' cy='299.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226189760420).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226189760420).style.visibility = &apos;hidden&apos;'/>
+<circle cx='141.16' cy='299.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237785488740).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237785488740).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='141.16' y='293.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>5.00</text>
-<text x='141.16' y='293.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>5.00</text>
-<g id='70226189709320' visibility='hidden'>
-<text x='146.16' y='287.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>5.00</text>
-<text x='146.16' y='287.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>5.00</text>
+<text x='141.16' y='293.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>5.00 (25%)</text>
+<text x='141.16' y='293.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>5.00 (25%)</text>
+<g id='70237807068900' visibility='hidden'>
+<text x='146.16' y='287.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>5.00 (25%)</text>
+<text x='146.16' y='287.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>5.00 (25%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='141.16' cy='299.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226189709320).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226189709320).style.visibility = &apos;hidden&apos;'/>
+<circle cx='141.16' cy='299.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237807068900).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237807068900).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='209.45333333333332' y='253.89999999999998' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>6.70</text>
-<text x='209.45333333333332' y='253.89999999999998' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>6.70</text>
-<g id='70226189656280' visibility='hidden'>
-<text x='214.45333333333332' y='247.89999999999998' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>6.70</text>
-<text x='214.45333333333332' y='247.89999999999998' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>6.70</text>
+<text x='209.45333333333332' y='253.89999999999998' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>6.70 (21%)</text>
+<text x='209.45333333333332' y='253.89999999999998' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>6.70 (21%)</text>
+<g id='70237807008660' visibility='hidden'>
+<text x='214.45333333333332' y='247.89999999999998' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>6.70 (21%)</text>
+<text x='214.45333333333332' y='247.89999999999998' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>6.70 (21%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='209.45333333333332' cy='259.9' r='10' style='opacity: 0' onmouseover='document.getElementById(70226189656280).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226189656280).style.visibility = &apos;hidden&apos;'/>
+<circle cx='209.45333333333332' cy='259.9' r='10' style='opacity: 0' onmouseover='document.getElementById(70237807008660).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237807008660).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='238.6' y='316.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>4.00</text>
-<text x='238.6' y='316.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>4.00</text>
-<g id='70226189562320' visibility='hidden'>
-<text x='243.6' y='310.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>4.00</text>
-<text x='243.6' y='310.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>4.00</text>
+<text x='238.6' y='316.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>4.00 (14%)</text>
+<text x='238.6' y='316.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>4.00 (14%)</text>
+<g id='70237806943240' visibility='hidden'>
+<text x='243.6' y='310.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>4.00 (14%)</text>
+<text x='243.6' y='310.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>4.00 (14%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='238.6' cy='322.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226189562320).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226189562320).style.visibility = &apos;hidden&apos;'/>
+<circle cx='238.6' cy='322.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237806943240).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237806943240).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='238.6' y='270.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>6.00</text>
-<text x='238.6' y='270.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>6.00</text>
-<g id='70226189514360' visibility='hidden'>
-<text x='243.6' y='264.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>6.00</text>
-<text x='243.6' y='264.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>6.00</text>
+<text x='238.6' y='270.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>6.00 (30%)</text>
+<text x='238.6' y='270.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>6.00 (30%)</text>
+<g id='70237806904160' visibility='hidden'>
+<text x='243.6' y='264.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>6.00 (30%)</text>
+<text x='243.6' y='264.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>6.00 (30%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='238.6' cy='276.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226189514360).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226189514360).style.visibility = &apos;hidden&apos;'/>
+<circle cx='238.6' cy='276.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237806904160).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237806904160).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='306.8933333333333' y='316.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>4.00</text>
-<text x='306.8933333333333' y='316.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>4.00</text>
-<g id='70226189429800' visibility='hidden'>
-<text x='311.8933333333333' y='310.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>4.00</text>
-<text x='311.8933333333333' y='310.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>4.00</text>
+<text x='306.8933333333333' y='316.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>4.00 (12%)</text>
+<text x='306.8933333333333' y='316.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>4.00 (12%)</text>
+<g id='70237806810160' visibility='hidden'>
+<text x='311.8933333333333' y='310.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>4.00 (12%)</text>
+<text x='311.8933333333333' y='310.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>4.00 (12%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='306.8933333333333' cy='322.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226189429800).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226189429800).style.visibility = &apos;hidden&apos;'/>
+<circle cx='306.8933333333333' cy='322.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237806810160).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237806810160).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='336.03999999999996' y='293.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>5.00</text>
-<text x='336.03999999999996' y='293.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>5.00</text>
-<g id='70226189377980' visibility='hidden'>
-<text x='341.03999999999996' y='287.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>5.00</text>
-<text x='341.03999999999996' y='287.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>5.00</text>
+<text x='336.03999999999996' y='293.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>5.00 (18%)</text>
+<text x='336.03999999999996' y='293.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>5.00 (18%)</text>
+<g id='70237806738020' visibility='hidden'>
+<text x='341.03999999999996' y='287.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>5.00 (18%)</text>
+<text x='341.03999999999996' y='287.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>5.00 (18%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='336.03999999999996' cy='299.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226189377980).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226189377980).style.visibility = &apos;hidden&apos;'/>
+<circle cx='336.03999999999996' cy='299.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237806738020).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237806738020).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='336.04' y='362.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>2.00</text>
-<text x='336.04' y='362.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>2.00</text>
-<g id='70226200938760' visibility='hidden'>
-<text x='341.04' y='356.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>2.00</text>
-<text x='341.04' y='356.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>2.00</text>
+<text x='336.04' y='362.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>2.00 (10%)</text>
+<text x='336.04' y='362.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>2.00 (10%)</text>
+<g id='70237794405700' visibility='hidden'>
+<text x='341.04' y='356.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>2.00 (10%)</text>
+<text x='341.04' y='356.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>2.00 (10%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='336.04' cy='368.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226200938760).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226200938760).style.visibility = &apos;hidden&apos;'/>
+<circle cx='336.04' cy='368.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237794405700).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237794405700).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='404.3333333333333' y='343.6' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>2.80</text>
-<text x='404.3333333333333' y='343.6' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>2.80</text>
-<g id='70226200876700' visibility='hidden'>
-<text x='409.3333333333333' y='337.6' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>2.80</text>
-<text x='409.3333333333333' y='337.6' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>2.80</text>
+<text x='404.3333333333333' y='343.6' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>2.80 (9%)</text>
+<text x='404.3333333333333' y='343.6' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>2.80 (9%)</text>
+<g id='70237794342160' visibility='hidden'>
+<text x='409.3333333333333' y='337.6' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>2.80 (9%)</text>
+<text x='409.3333333333333' y='337.6' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>2.80 (9%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='404.3333333333333' cy='349.6' r='10' style='opacity: 0' onmouseover='document.getElementById(70226200876700).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226200876700).style.visibility = &apos;hidden&apos;'/>
+<circle cx='404.3333333333333' cy='349.6' r='10' style='opacity: 0' onmouseover='document.getElementById(70237794342160).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237794342160).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='433.47999999999996' y='115.90000000000003' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>12.70</text>
-<text x='433.47999999999996' y='115.90000000000003' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>12.70</text>
-<g id='70226205054240' visibility='hidden'>
-<text x='438.47999999999996' y='109.90000000000003' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>12.70</text>
-<text x='438.47999999999996' y='109.90000000000003' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>12.70</text>
+<text x='433.47999999999996' y='115.90000000000003' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;text-anchor: end;'>12.70 (46%)</text>
+<text x='433.47999999999996' y='115.90000000000003' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end;'>12.70 (46%)</text>
+<g id='70237794273580' visibility='hidden'>
+<text x='428.47999999999996' y='109.90000000000003' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: end;'>12.70 (46%)</text>
+<text x='428.47999999999996' y='109.90000000000003' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: end;'>12.70 (46%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='433.47999999999996' cy='121.90000000000003' r='10' style='opacity: 0' onmouseover='document.getElementById(70226205054240).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226205054240).style.visibility = &apos;hidden&apos;'/>
+<circle cx='433.47999999999996' cy='121.90000000000003' r='10' style='opacity: 0' onmouseover='document.getElementById(70237794273580).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237794273580).style.visibility = &apos;hidden&apos;'/>
 </a>
-<text x='433.48' y='339.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;'>3.00</text>
-<text x='433.48' y='339.0' class='dataPointLabel' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;'>3.00</text>
-<g id='70226196676320' visibility='hidden'>
-<text x='438.48' y='333.0' class='dataPointPopupMask' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: start;'>3.00</text>
-<text x='438.48' y='333.0' class='dataPointPopup' style='fill: #000000; text-anchor:middle; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: start;'>3.00</text>
+<text x='433.48' y='339.0' class='dataPointLabelBackground' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: #ffffff; stroke-width: 2;text-anchor: end;'>3.00 (15%)</text>
+<text x='433.48' y='339.0' class='dataPointLabel' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;text-anchor: end;'>3.00 (15%)</text>
+<g id='70237806681920' visibility='hidden'>
+<text x='428.48' y='333.0' class='dataPointPopupMask' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; stroke: white; stroke-width: 7;text-anchor: end;'>3.00 (15%)</text>
+<text x='428.48' y='333.0' class='dataPointPopup' style='fill: #000000; text-anchor: end; text-align: center; writing-mode: vertical-rl; font-size: 10px; font-family: &quot;Arial&quot;, sans-serif; font-weight: normal;; fill: black; stroke-width: 2;text-anchor: end;'>3.00 (15%)</text>
 </g>
 <a xlink:href=''>
-<circle cx='433.48' cy='345.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70226196676320).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70226196676320).style.visibility = &apos;hidden&apos;'/>
+<circle cx='433.48' cy='345.0' r='10' style='opacity: 0' onmouseover='document.getElementById(70237806681920).style.visibility =&apos;visible&apos;' onmouseout='document.getElementById(70237806681920).style.visibility = &apos;hidden&apos;'/>
 </a>
 </g>
 </g>

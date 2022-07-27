@@ -41,8 +41,4 @@ g.add_data( {
 # graph.burn            # this returns a full valid xml document containing the graph
 # graph.burn_svg_only   # this only returns the <svg>...</svg> node
 output_filename = File.basename(__FILE__, ".rb")
-if defined?(USE_FOR_TESTING)
-  File.open(File.join(OUTPUT_FOLDER, "#{output_filename}.html"), "w") {|f| f.write(g.burn)}
-else
-  File.open(File.expand_path("#{output_filename}.svg",__dir__), 'w') {|f| f.write(g.burn_svg_only)} # for inclusion into readme.md
-end
+File.open(File.expand_path("#{output_filename}.svg",__dir__), 'w') {|f| f.write(g.burn_svg_only)} # for inclusion into readme.md

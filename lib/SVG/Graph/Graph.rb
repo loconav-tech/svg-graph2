@@ -1256,7 +1256,8 @@ module SVG
 
 .dataPointLabel, .dataPointLabelBackground, .dataPointPopup, .dataPointPopupMask{
   fill: #000000;
-  text-anchor:middle;
+  text-anchor: end;
+  writing-mode: vertical-rl;
   font-size: 10px;
   font-family: "Arial", sans-serif;
   font-weight: normal;
