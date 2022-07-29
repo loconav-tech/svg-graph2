@@ -776,9 +776,9 @@ module SVG
           end
           # change anchor is label overlaps axis, normally anchor is middle (that's why we compute length/2)
           if x < textStr.length/2 * font_size
-            style << "text-anchor: start;"
+            style << "text-anchor: middle;"
           elsif x > @graph_width - textStr.length/2 * font_size
-            style << "text-anchor: end;"
+            style << "text-anchor: middle;"
           end
           # background for better readability
           text = @foreground.add_element( "text", {
@@ -1256,9 +1256,8 @@ module SVG
 
 .dataPointLabel, .dataPointLabelBackground, .dataPointPopup, .dataPointPopupMask{
   fill: #000000;
-  text-anchor: end;
-  writing-mode: vertical-rl;
-  font-size: 10px;
+  text-anchor: middle;
+  font-size: 8px;
   font-family: "Arial", sans-serif;
   font-weight: normal;
 }

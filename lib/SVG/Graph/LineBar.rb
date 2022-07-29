@@ -152,7 +152,7 @@ module SVG
               value_string += (@number_format % dataset[:data][i]) if show_actual_values
               percent = 100.0 * dataset[:data][i] / total
               value_string += " (" + percent.round.to_s + "%)" if show_percent
-              make_datapoint_text(left - bar_width/2.0, top - font_size/2, value_string)
+              make_datapoint_text(left + bar_width/2.0, top - font_size/2, value_string)
               add_popup(left - bar_width/2.0, top , value_string)
             end
             dataset_count += 1

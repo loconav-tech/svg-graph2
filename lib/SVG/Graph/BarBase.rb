@@ -28,7 +28,7 @@ module SVG
       # [bar_gap] true
       # [stack] :overlap
       def set_defaults
-        init_with( :bar_gap => true, :stack => :overlap, :show_percent => true, :show_actual_values => true)
+        init_with( :bar_gap => true, :stack => :overlap, :show_percent => false, :show_actual_values => true)
       end
 
       #   Whether to have a gap between the bars or not, default
