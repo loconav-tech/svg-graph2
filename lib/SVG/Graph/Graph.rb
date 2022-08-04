@@ -824,7 +824,7 @@ module SVG
             text.attributes["class"] = "xAxisLabels"
             text.text = textStr
 
-            x = count * label_width + x_label_offset( label_width )
+            x = count * label_width + x_label_offset( label_width ) - 6
             y = @graph_height + x_label_font_size + 3
             #t = 0 - (font_size / 2)
 
@@ -987,10 +987,10 @@ module SVG
 
         if show_x_title
           if (x_title_location == :end)
-            y = @graph_height + @border_top + x_title_font_size/2.0
+            y = @graph_height + @border_top + x_title_font_size/2.0 + 12
             x = @border_left + @graph_width + x_title.length * x_title_font_size * 0.6/2.0
           else
-            y = @graph_height + @border_top + x_title_font_size + max_x_label_height_px
+            y = @graph_height + @border_top + x_title_font_size + max_x_label_height_px + 12
             x = @border_left + @graph_width / 2
           end
 
@@ -1058,7 +1058,7 @@ module SVG
           case key_position
           when :right
             x_offset = @graph_width + @border_left + (key_spacing * 2)
-            y_offset = @border_top + (key_spacing * 2)
+            y_offset = @border_top + @graph_height/1.3 + (key_spacing * 2)
           when :bottom
             x_offset = @border_left + (key_spacing * 2)
             y_offset = @border_top + @graph_height + key_spacing
@@ -1192,16 +1192,16 @@ module SVG
   fill:#ffffff;
 }
 .graphBackground{
-  fill:#f0f0f0;
+  fill:#f3f8fa;
 }
 
 /* graphs titles */
 .mainTitle{
   text-anchor: middle;
-  fill: #000000;
+  fill: #061238;
   font-size: #{title_font_size}px;
   font-family: "Arial", sans-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 .subTitle{
   text-anchor: middle;
@@ -1212,7 +1212,7 @@ module SVG
 }
 
 .axis{
-  stroke: #000000;
+  stroke: #061238;
   stroke-width: 1px;
 }
 
@@ -1224,7 +1224,7 @@ module SVG
 
 .xAxisLabels{
   text-anchor: middle;
-  fill: #000000;
+  fill: #061238;
   font-size: #{x_label_font_size}px;
   font-family: "Arial", sans-serif;
   font-weight: normal;
@@ -1232,7 +1232,7 @@ module SVG
 
 .yAxisLabels{
   text-anchor: end;
-  fill: #000000;
+  fill: #061238;
   font-size: #{y_label_font_size}px;
   font-family: "Arial", sans-serif;
   font-weight: normal;
@@ -1240,26 +1240,26 @@ module SVG
 
 .xAxisTitle{
   text-anchor: middle;
-  fill: #ff0000;
+  fill: #061238;
   font-size: #{x_title_font_size}px;
   font-family: "Arial", sans-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .yAxisTitle{
-  fill: #ff0000;
+  fill: #061238;
   text-anchor: middle;
   font-size: #{y_title_font_size}px;
   font-family: "Arial", sans-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .dataPointLabel, .dataPointLabelBackground, .dataPointPopup, .dataPointPopupMask{
-  fill: #000000;
+  fill: #061238;
   text-anchor: middle;
   font-size: 8px;
   font-family: "Arial", sans-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .dataPointLabelBackground{
@@ -1286,7 +1286,7 @@ module SVG
 #{get_css}
 
 .keyText{
-  fill: #000000;
+  fill: #061238;
   text-anchor:start;
   font-size: #{key_font_size}px;
   font-family: "Arial", sans-serif;

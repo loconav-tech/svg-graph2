@@ -186,8 +186,8 @@ module SVG
         @config[:fields].collect{ |x|
           count += 1
           v = @data[count]
-          perc = show_key_percent ? " "+(v * percent_scale).round.to_s+"%" : ""
-          val = show_key_actual_values  ? " [" + v.to_s + "]"  : ""
+          perc = show_key_percent ? " ("+(v * percent_scale).round.to_s+"%)" : ""
+          val = show_key_actual_values  ? " : " + v.to_s : ""
           x + val + perc
         }
       end
@@ -364,20 +364,20 @@ module SVG
 
 /* key - MUST match fill styles */
 .key1,.fill1{
-	fill: #ff0000;
-	fill-opacity: 0.7;
+	fill: #ff7f50;
+	fill-opacity: 1;
 	stroke: none;
 	stroke-width: 1px;
 }
 .key2,.fill2{
-	fill: #0000ff;
-	fill-opacity: 0.7;
+	fill: #0a306a;
+	fill-opacity: 1;
 	stroke: none;
 	stroke-width: 1px;
 }
 .key3,.fill3{
-	fill-opacity: 0.7;
-	fill: #ffff00;
+	fill: #ffd27f;
+  fill-opacity: 1;
 	stroke: none;
 	stroke-width: 1px;
 }

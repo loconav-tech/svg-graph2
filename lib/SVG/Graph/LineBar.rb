@@ -149,10 +149,10 @@ module SVG
             else
               @polyline_points << "#{(left - bar_width).to_s},#{top.to_s}"
               value_string = ""
-              value_string += (@number_format % dataset[:data][i]) if show_actual_values
+              value_string += (dataset[:data][i]).to_s if show_actual_values
               percent = 100.0 * dataset[:data][i] / total
               value_string += " (" + percent.round.to_s + "%)" if show_percent
-              make_datapoint_text(left + bar_width/2.0, top - font_size/2, value_string)
+              make_datapoint_text(left - bar_width/2.0, bottom + font_size*2.2, "Max Speed:" + value_string)
               add_popup(left - bar_width/2.0, top , value_string)
             end
             dataset_count += 1
@@ -160,8 +160,8 @@ module SVG
           field_count += 1
         }
         if @polyline_points.size != 0
-          @graph.add_element("polyline", { "points" => @polyline_points.join(" "), "fill" => "none", "stroke" => "#ffff00", "id" => "time" })
-          @polyline_points.each { |p| @graph.add_element("circle", { "cx" => p.split(",")[0], "cy" => p.split(",")[1], "r" => 3, "stroke" => "#ffff00", "stroke-width" => 5, "fill" => "#ffff00" } ) }
+          @graph.add_element("polyline", { "points" => @polyline_points.join(" "), "fill" => "none", "stroke" => "#ffd27f", "id" => "time" })
+          @polyline_points.each { |p| @graph.add_element("circle", { "cx" => p.split(",")[0], "cy" => p.split(",")[1], "r" => 3, "stroke" => "#ffd27f", "stroke-width" => 5, "fill" => "#ffd27f" } ) }
           @polyline_points = []
         end
       end
