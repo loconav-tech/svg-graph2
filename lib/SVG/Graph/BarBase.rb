@@ -71,20 +71,20 @@ module SVG
         return <<EOL
 /* default fill styles for multiple datasets (probably only use a single dataset on this graph though) */
 .key1,.fill1{
-	fill: #ff7f50;
-	fill-opacity: 1;
+	fill: #FF0000;
+	fill-opacity: 0.8;
 	stroke: none;
 	stroke-width: 1px;
 }
 .key2,.fill2{
-	fill: #0a306a;
-	fill-opacity: 1;
+	fill: #0000FF;
+	fill-opacity: 0.8;
 	stroke: none;
 	stroke-width: 1px;
 }
 .key3,.fill3{
-	fill: #ffd27f;
-  fill-opacity: 1;
+	fill: #FFFF00;
+  fill-opacity: 0.8;
 	stroke: none;
 	stroke-width: 1px;
 }
